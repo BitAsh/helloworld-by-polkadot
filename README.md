@@ -9,3 +9,4 @@ Submissions:
 7. Enable Multi-Currency Support. [submission link](https://github.com/BitAsh/substrate-node-orml-tokens)
 8. Enable NFT support. [submission link](https://github.com/BitAsh/substrate-node-orml-nft)
 9. Back-end JavaScript. [submission link](https://github.com/BitAsh/polkadot-block-js-utility)
+10. Front-end JavaScript. [submission link](https://github.com/BitAsh/Front-end-JS)
