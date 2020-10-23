@@ -11,3 +11,4 @@ Submissions:
 9. Back-end JavaScript. [submission link](https://github.com/BitAsh/polkadot-block-js-utility)
 10. Front-end JavaScript. [submission link](https://github.com/BitAsh/Front-end-JS)
 11. Using Remix and MetaMask on Moonbeam. [submission link](https://github.com/BitAsh/helloworld-by-polkadot/blob/master/using-remix-and-metamask-on-moonbeam/README.md)
+12. Deploy on Moonbase Alpha using Truffle. [submission link](https://github.com/BitAsh/helloworld-by-polkadot/blob/master/deploy-on-moonbase-alpha-using-truffle/README.md)
