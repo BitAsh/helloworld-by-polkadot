@@ -16,3 +16,4 @@ Submissions:
 14. FRAME Development. [submission link](https://github.com/BitAsh/helloworld-by-polkadot/tree/master/frame-development)
 15. REST APIs - Read an account's pending payouts. [submission link](https://github.com/BitAsh/pending-payout)
 16. FRAME Multisig. [submission link](https://github.com/BitAsh/helloworld-by-polkadot/tree/master/frame-multisig)
+17. Smart contracts - Build a charity raffle [submission link](https://github.com/BitAsh/charity-raffle)
