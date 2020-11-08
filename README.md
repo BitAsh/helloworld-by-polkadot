@@ -18,3 +18,4 @@ Submissions:
 16. FRAME Multisig. [submission link](https://github.com/BitAsh/helloworld-by-polkadot/tree/master/frame-multisig)
 17. Smart contracts - Build a charity raffle [submission link](https://github.com/BitAsh/charity-raffle)
 18. Deploying Solidity Contract on Plasm Network V1 [submission link](https://github.com/BitAsh/helloworld-by-polkadot/blob/master/solidity-contract-on-plasm/README.md)
+19. Build a dApp [submission link](https://github.com/BitAsh/polka-twitter)
